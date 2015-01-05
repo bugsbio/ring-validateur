@@ -1,4 +1,4 @@
-(defproject ring-validateur "0.1.0-SNAPSHOT"
+(defproject ring-validateur "0.1.0"
   :description "Ring middleware and helper functions for validateur"
   :url "http://github.com/bugsbio/ring-validateur"
   :license {:name "MIT"
