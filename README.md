@@ -1,14 +1,7 @@
 # ring-validateur
 
-A Clojure library designed to ... well, that part is up to you.
+Wrap your handler in ring-validateur middleware and use the exception throwing `validate!` function to short-circut your requests with a customizable validation error response if validation fails.
 
 ## Usage
 
-FIXME
-
-## License
-
-Copyright © 2014 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Add [ring-validateur "0.1.0"] to the dependencies vector of your `project.clj`.
