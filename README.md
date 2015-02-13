@@ -1,6 +1,6 @@
 # ring-validateur
 
-Wrap your handler in ring-validateur middleware and use the exception throwing `validate!` function to short-circut your requests with a customizable validation error response if validation fails.
+Wrap your handler in ring-validateur middleware and use the exception throwing `validate!` function to short-circuit your requests with a customizable validation error response if validation fails.
 
 ## Usage
 
